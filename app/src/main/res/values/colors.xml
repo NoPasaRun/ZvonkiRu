@@ -1,0 +1,6 @@
+<resources>
+    <color name="background_color">#FFFFFF</color>
+    <color name="primary_text_color">#000000</color>
+    <color name="button_color">#6200EE</color>
+    <color name="video_frame_color">#CCCCCC</color>
+</resources>

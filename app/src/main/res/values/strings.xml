@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KuKluxNet</string>
+    <string name="title">Видеозвонки</string>
+    <string name="edit_room_id_hint">Введите ID комнаты</string>
+    <string name="generate_room_id_btn">Сгенерировать</string>
+    <string name="connect_btn">Подключиться</string>
+    <string name="mute_btn">Замутить себя</string>
+    <string name="video_off_btn">Отключить видео</string>
+    <string name="back_to_menu_btn">Выйти</string>
+    <string name="menu_btn">Меню</string>
+    <string name="copy_room_id_btn">Копировать ID комнаты</string>
+</resources>
